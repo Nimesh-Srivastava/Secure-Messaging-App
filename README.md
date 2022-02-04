@@ -1,3 +1,3 @@
-# Secure Messaging mobile application
+# Talks
 
-Cross platform messaging app made using React-native, AWS
+Secure, cross platform messaging app made using React-native, AWS
