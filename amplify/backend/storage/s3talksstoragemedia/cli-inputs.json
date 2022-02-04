@@ -1,0 +1,11 @@
+{
+  "resourceName": "s3talksstoragemedia",
+  "bucketName": "talks-storage-media",
+  "policyUUID": "177d78cd",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ]
+}

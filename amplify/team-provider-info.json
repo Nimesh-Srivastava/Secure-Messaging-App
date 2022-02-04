@@ -1,0 +1,27 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-talks-staging-60530-authRole",
+      "UnauthRoleArn": "arn:aws:iam::427135246851:role/amplify-talks-staging-60530-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::427135246851:role/amplify-talks-staging-60530-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-talks-staging-60530-deployment",
+      "UnauthRoleName": "amplify-talks-staging-60530-unauthRole",
+      "StackName": "amplify-talks-staging-60530",
+      "StackId": "arn:aws:cloudformation:us-east-1:427135246851:stack/amplify-talks-staging-60530/a11b9330-8192-11ec-8612-0adc2fdbbc11",
+      "AmplifyAppId": "dcxgq0s5bpgv",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-talks-staging-60530-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "Talks": {}
+      },
+      "function": {
+        "TalksPostConfirmation": {
+          "deploymentBucketName": "amplify-talks-staging-60530-deployment",
+          "s3Key": "amplify-builds/TalksPostConfirmation-34522f4e4a6d4f6c4152-build.zip"
+        }
+      }
+    }
+  }
+}
