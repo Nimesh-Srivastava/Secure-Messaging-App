@@ -10,3 +10,4 @@ The application offers various features like:
 * real time message read reciepts;
 * last seen of users;
 * ability to create groups;
+* more to be listed soon...
